@@ -1,0 +1,37 @@
+body {
+    background-color: #CEAB93;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    padding-top: 100px;
+}
+
+#description {
+    padding-top: 50px;
+}
+
+#location {
+    font-size: 3rem;
+}
+
+input {
+    border: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    -moz-appearance: none;
+    padding: 12px;
+    border-radius: 10px;
+    width: 250px;
+    background-color: white;
+}
+
+button {
+    border: none;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+
+button:hover {
+    background: #AD8B73;
+}
